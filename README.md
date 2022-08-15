@@ -1,4 +1,4 @@
-# Ignite-ToDo-List-Challenge
+# ToDo List Challenge
 ## Descrição do Projeto
 <p align="center">This project was made in Rocketseat Ignite course. It's a challenge ToDo List made with React.</p>
 
